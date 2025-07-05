@@ -18,7 +18,7 @@ This repository contains the **UFO-based Data Generator (UDG)** and indexing too
 - **Integration with JOPA**  
   Utilizes JOPA, a Java persistence API for OWL ontologies, for programmatic creation and management of ontology instances.
 
-- **SHACL Validator**  
+- **[SHACL Validator](https://github.com/kbss-cvut/ufo-validator)**  
   Provides validation rules to ensure real-world or synthetic RDF datasets conform to the UFO structure and constraints required by the benchmark.
 
 ---
